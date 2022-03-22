@@ -1,0 +1,85 @@
+header {
+    width: 100%;
+    height: auto;
+    color: white;
+    font-family: 'Brush Script MT';
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(80, 235, 170);
+}
+
+.logo {
+    width: auto;
+    height: 80%;
+}
+
+.box {
+    display: flex;
+    margin-top: 5px;
+}
+
+nav {
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+    color: white;
+    font-family: 'Lucida Sans Regular', Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(95, 182, 146);
+    text-align: left;
+}
+
+a {
+    color: rgb(15, 97, 63);
+    text-decoration:none;
+    font-family: 'Lucida Sans Regular', Verdana, sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+a:hover {
+    color: white;
+}
+
+section {
+    font-family: 'Lucida Sans Regular', Verdana, sans-serif;
+    width: 80%;
+    height: auto;
+    color: black;
+    background-color: rgb(25, 179, 115);
+    text-align: center;
+}
+
+img {
+    margin: 10px;
+    width: 600px;
+    height: 300px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+aside {
+    margin-left: 10px;
+    font-family: 'Lucida Sans Regular', Verdana, sans-serif;
+    font-size: 15px;
+    width: 20%;
+    height: auto;
+    color: white;
+    background-color: rgb(12, 151, 93);;
+}
+
+p {
+    margin-left: 6px ;
+}
+
+footer {
+    margin-top: 5px;
+    width: 100%;
+    color: white;
+    font-family: 'Lucida Sans Regular', Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(15, 97, 63);
+}
